@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Command: ddos
+ArthurPlug: org.powertrip.excalibot.common.plugins.ddos.Server
+KnightPlug: org.powertrip.excalibot.common.plugins.ddos.Bot
+
+
